@@ -1,0 +1,182 @@
+Away: Flames vs Oilers :Home
+ 
+Top of inning 1
+AJ walks. Man on 1st
+BJ doubles. Man on 3rd. Man on 2nd
+CJ singles. A run scores. 
+Score: Flames 1-0 Oilers
+Man on 3rd. Man on 1st
+DJ doubles. 1 runs score. 
+Score: Flames 2-0 Oilers
+Man on 3rd. Man on 2nd
+EJ singles. A run scores. 
+Score: Flames 3-0 Oilers
+Man on 3rd. Man on 1st
+OJ fouls out. Outs: 1
+PJ pops out. Outs: 2
+TJ strikes out. Outs: 3
+ 
+Bottom of inning 1
+Joe singles. Man on 1st
+Ken walks. Man on 2nd. Man on 1st
+Lou singles. Man on 2nd. Man on 3rd. Man on 1st
+Max grounds out. Outs: 1
+Ned singles. A run scores. 
+Score: Oilers 1-3 Flames
+Man on 2nd. Man on 3rd. Man on 1st
+Owen pops out. Outs: 2
+Pat walks. A run scores. 
+Score: Oilers 2-3 Flames
+Man on 2nd. Man on 3rd. Man on 1st
+Rex singles. A run scores. 
+Score: Oilers 3-3 Flames
+Man on 2nd. Man on 3rd. Man on 1st
+Stu fouls out. Outs: 3
+ 
+Top of inning 2
+RJ grounds out. Outs: 1
+AJ pops out. Outs: 2
+BJ doubles. Man on 2nd
+CJ singles. Man on 3rd. Man on 1st
+DJ pops out. Outs: 3
+ 
+Bottom of inning 2
+Joe grounds out. Outs: 1
+Ken pops out. Outs: 2
+Lou grounds out. Outs: 3
+ 
+Top of inning 3
+EJ singles. Man on 1st
+OJ singles. Man on 2nd. Man on 1st
+PJ singles. Man on 2nd. Man on 3rd. Man on 1st
+TJ strikes out. Outs: 1
+RJ flies out. Outs: 2
+AJ walks. A run scores. 
+Score: Flames 4-3 Oilers
+Man on 2nd. Man on 3rd. Man on 1st
+BJ pops out. Outs: 3
+ 
+Bottom of inning 3
+Max pops out. Outs: 1
+Ned walks. Man on 1st
+Owen pops out. Outs: 2
+Pat strikes out. Outs: 3
+ 
+Top of inning 4
+CJ walks. Man on 1st
+DJ fouls out. Outs: 1
+EJ doubles. Man on 3rd. Man on 2nd
+OJ singles. A run scores. 
+Score: Flames 5-3 Oilers
+Man on 3rd. Man on 1st
+PJ grounds out. Outs: 2
+TJ strikes out. Outs: 3
+ 
+Bottom of inning 4
+Rex pops out. Outs: 1
+Stu grounds out. Outs: 2
+Joe singles. Man on 1st
+Ken grounds out. Outs: 3
+ 
+Top of inning 5
+RJ pops out. Outs: 1
+AJ singles. Man on 1st
+BJ strikes out. Outs: 2
+CJ singles. Man on 2nd. Man on 1st
+DJ singles. Man on 2nd. Man on 3rd. Man on 1st
+EJ fouls out. Outs: 3
+ 
+Bottom of inning 5
+Lou pops out. Outs: 1
+Max singles. Man on 1st
+Ned singles. Man on 2nd. Man on 1st
+Owen walks. Man on 2nd. Man on 3rd. Man on 1st
+Pat fouls out. Outs: 2
+Rex pops out. Outs: 3
+ 
+Top of inning 6
+OJ flies out. Outs: 1
+PJ pops out. Outs: 2
+TJ singles. Man on 1st
+RJ singles. Man on 2nd. Man on 1st
+AJ strikes out. Outs: 3
+ 
+Bottom of inning 6
+Stu walks. Man on 1st
+Joe strikes out. Outs: 1
+Ken flies out. Outs: 2
+Lou singles. Man on 2nd. Man on 1st
+Max fouls out. Outs: 3
+ 
+Top of inning 7
+BJ singles. Man on 1st
+CJ grounds out. Outs: 1
+DJ fouls out. Outs: 2
+EJ grounds out. Outs: 3
+ 
+Bottom of inning 7
+Ned flies out. Outs: 1
+Owen strikes out. Outs: 2
+Pat strikes out. Outs: 3
+ 
+Top of inning 8
+OJ flies out. Outs: 1
+PJ pops out. Outs: 2
+TJ singles. Man on 1st
+RJ walks. Man on 2nd. Man on 1st
+AJ doubles. 1 runs score. 
+Score: Flames 6-3 Oilers
+Man on 3rd. Man on 2nd
+BJ pops out. Outs: 3
+ 
+Bottom of inning 8
+Rex pops out. Outs: 1
+Stu grounds out. Outs: 2
+Joe singles. Man on 1st
+Ken strikes out. Outs: 3
+ 
+Top of inning 9
+CJ grounds out. Outs: 1
+DJ fouls out. Outs: 2
+EJ singles. Man on 1st
+OJ walks. Man on 2nd. Man on 1st
+PJ singles. Man on 2nd. Man on 3rd. Man on 1st
+TJ fouls out. Outs: 3
+ 
+Bottom of inning 9
+Lou flies out. Outs: 1
+Max walks. Man on 1st
+Ned strikes out. Outs: 2
+Owen singles. Man on 2nd. Man on 1st
+Pat flies out. Outs: 3
+The Flames win by a score of 6-3 over the Oilers
+ 
+Inning    |	1	|	2	|	3	|	4	|	5	|	6	|	7	|	8	|	9	|Runs	|Hits 
+Flames    |	3	|	0	|	1	|	1	|	0	|	0	|	0	|	1	|	0	|6	|21 
+Oilers    |	3	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|3	|10 
+Stats
+Flames
+Name      |AB	|H	|HR	|RBI	|BB 
+AJ        |4	|2	|0	|2	|2 
+BJ        |6	|3	|0	|0	|0 
+CJ        |5	|3	|0	|1	|1 
+DJ        |6	|2	|0	|1	|0 
+EJ        |6	|4	|0	|1	|0 
+OJ        |5	|2	|0	|1	|1 
+PJ        |6	|2	|0	|0	|0 
+TJ        |6	|2	|0	|0	|0 
+RJ        |4	|1	|0	|0	|1 
+Total     |48	|21	|0	|6	|5 
+ 
+Oilers
+Name      |AB	|H	|HR	|RBI	|BB 
+Joe       |5	|3	|0	|0	|0 
+Ken       |4	|0	|0	|0	|1 
+Lou       |5	|2	|0	|0	|0 
+Max       |4	|1	|0	|0	|1 
+Ned       |4	|2	|0	|1	|1 
+Owen      |4	|1	|0	|0	|1 
+Pat       |4	|0	|0	|1	|1 
+Rex       |4	|1	|0	|1	|0 
+Stu       |3	|0	|0	|0	|1 
+Total     |37	|10	|0	|3	|6

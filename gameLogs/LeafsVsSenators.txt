@@ -1,0 +1,158 @@
+Away: Leafs vs Senators :Home
+ 
+Top of inning 1
+Al fouls out. Outs: 1
+Bo pops out. Outs: 2
+Cam singles. Man on 1st
+Dan fouls out. Outs: 3
+ 
+Bottom of inning 1
+JA grounds out. Outs: 1
+JB grounds out. Outs: 2
+JC strikes out. Outs: 3
+ 
+Top of inning 2
+Ed flies out. Outs: 1
+Fred walks. Man on 1st
+Guy walks. Man on 2nd. Man on 1st
+Hal triples. 2 runs score
+Score: Leafs 2-0 Senators
+Man on 3rd
+Ian grounds out. Outs: 2
+Al grounds out. Outs: 3
+ 
+Bottom of inning 2
+JD strikes out. Outs: 1
+JJ flies out. Outs: 2
+JP strikes out. Outs: 3
+ 
+Top of inning 3
+Bo fouls out. Outs: 1
+Cam walks. Man on 1st
+Dan flies out. Outs: 2
+Ed singles. Man on 2nd. Man on 1st
+Fred singles. Man on 2nd. Man on 3rd. Man on 1st
+Guy flies out. Outs: 3
+ 
+Bottom of inning 3
+JR strikes out. Outs: 1
+JT pops out. Outs: 2
+JS walks. Man on 1st
+JA grounds out. Outs: 3
+ 
+Top of inning 4
+Hal strikes out. Outs: 1
+Ian grounds out. Outs: 2
+Al flies out. Outs: 3
+ 
+Bottom of inning 4
+JB grounds out. Outs: 1
+JC grounds out. Outs: 2
+JD singles. Man on 1st
+JJ walks. Man on 2nd. Man on 1st
+JP singles. Man on 2nd. Man on 3rd. Man on 1st
+JR grounds out. Outs: 3
+ 
+Top of inning 5
+Bo flies out. Outs: 1
+Cam fouls out. Outs: 2
+Dan grounds out. Outs: 3
+ 
+Bottom of inning 5
+JT strikes out. Outs: 1
+JS strikes out. Outs: 2
+JA flies out. Outs: 3
+ 
+Top of inning 6
+Ed pops out. Outs: 1
+Fred grounds out. Outs: 2
+Guy singles. Man on 1st
+Hal singles. Man on 2nd. Man on 1st
+Ian flies out. Outs: 3
+ 
+Bottom of inning 6
+JB grounds out. Outs: 1
+JC walks. Man on 1st
+JD strikes out. Outs: 2
+JJ walks. Man on 2nd. Man on 1st
+JP singles. Man on 2nd. Man on 3rd. Man on 1st
+JR strikes out. Outs: 3
+ 
+Top of inning 7
+Al walks. Man on 1st
+Bo flies out. Outs: 1
+Cam strikes out. Outs: 2
+Dan walks. Man on 2nd. Man on 1st
+Ed walks. Man on 2nd. Man on 3rd. Man on 1st
+Fred flies out. Outs: 3
+ 
+Bottom of inning 7
+JT pops out. Outs: 1
+JS singles. Man on 1st
+JA grounds out. Outs: 2
+JB triples. 1 runs score
+Score: Senators 1-2 Leafs
+Man on 3rd
+JC singles. A run scores. 
+Score: Senators 2-2 Leafs
+Man on 1st
+JD walks. Man on 2nd. Man on 1st
+JJ strikes out. Outs: 3
+ 
+Top of inning 8
+Guy fouls out. Outs: 1
+Hal pops out. Outs: 2
+Ian fouls out. Outs: 3
+ 
+Bottom of inning 8
+JP fouls out. Outs: 1
+JR flies out. Outs: 2
+JT singles. Man on 1st
+JS walks. Man on 2nd. Man on 1st
+JA walks. Man on 2nd. Man on 3rd. Man on 1st
+JB grounds out. Outs: 3
+ 
+Top of inning 9
+Al walks. Man on 1st
+Bo grounds out. Outs: 1
+Cam pops out. Outs: 2
+Dan singles. Man on 2nd. Man on 1st
+Ed strikes out. Outs: 3
+ 
+Bottom of inning 9
+JC fouls out. Outs: 1
+JD singles. Man on 1st
+JJ pops out. Outs: 2
+JP fouls out. Outs: 3
+It's a tie!
+Score: Leafs 2-2 Senators
+ 
+Inning    |	1	|	2	|	3	|	4	|	5	|	6	|	7	|	8	|	9	|Runs	|Hits 
+Leafs     |	0	|	2	|	0	|	0	|	0	|	0	|	0	|	0	|	0	|2	|7 
+Senators  |	0	|	0	|	0	|	0	|	0	|	0	|	2	|	0	|	0	|2	|8 
+Stats
+Leafs
+Name      |AB	|H	|HR	|RBI	|BB 
+Al        |3	|0	|0	|0	|2 
+Bo        |5	|0	|0	|0	|0 
+Cam       |4	|1	|0	|0	|1 
+Dan       |4	|1	|0	|0	|1 
+Ed        |4	|1	|0	|0	|1 
+Fred      |3	|1	|0	|0	|1 
+Guy       |3	|1	|0	|0	|1 
+Hal       |4	|2	|0	|2	|0 
+Ian       |4	|0	|0	|0	|0 
+Total     |34	|7	|0	|2	|7 
+ 
+Senators
+Name      |AB	|H	|HR	|RBI	|BB 
+JA        |4	|0	|0	|0	|1 
+JB        |5	|1	|0	|1	|0 
+JC        |4	|1	|0	|1	|1 
+JD        |4	|2	|0	|0	|1 
+JJ        |3	|0	|0	|0	|2 
+JP        |5	|2	|0	|0	|0 
+JR        |4	|0	|0	|0	|0 
+JT        |4	|1	|0	|0	|0 
+JS        |2	|1	|0	|0	|2 
+Total     |35	|8	|0	|2	|7

@@ -1,0 +1,162 @@
+Away: Flames vs Senators :Home
+ 
+Top of inning 1
+AJ flies out. Outs: 1
+BJ grounds out. Outs: 2
+CJ walks. Man on 1st
+DJ flies out. Outs: 3
+ 
+Bottom of inning 1
+JA singles. Man on 1st
+JB fouls out. Outs: 1
+JC grounds out. Outs: 2
+JD strikes out. Outs: 3
+ 
+Top of inning 2
+EJ pops out. Outs: 1
+OJ singles. Man on 1st
+PJ flies out. Outs: 2
+TJ grounds out. Outs: 3
+ 
+Bottom of inning 2
+JJ walks. Man on 1st
+JP singles. Man on 2nd. Man on 1st
+JR strikes out. Outs: 1
+JT walks. Man on 2nd. Man on 3rd. Man on 1st
+JS pops out. Outs: 2
+JA grounds out. Outs: 3
+ 
+Top of inning 3
+RJ singles. Man on 1st
+AJ strikes out. Outs: 1
+BJ singles. Man on 2nd. Man on 1st
+CJ walks. Man on 2nd. Man on 3rd. Man on 1st
+DJ pops out. Outs: 2
+EJ flies out. Outs: 3
+ 
+Bottom of inning 3
+JB fouls out. Outs: 1
+JC pops out. Outs: 2
+JD flies out. Outs: 3
+ 
+Top of inning 4
+OJ walks. Man on 1st
+PJ singles. Man on 2nd. Man on 1st
+TJ walks. Man on 2nd. Man on 3rd. Man on 1st
+RJ fouls out. Outs: 1
+AJ fouls out. Outs: 2
+BJ singles. A run scores. 
+Score: Flames 1-0 Senators
+Man on 2nd. Man on 3rd. Man on 1st
+CJ fouls out. Outs: 3
+ 
+Bottom of inning 4
+JJ grounds out. Outs: 1
+JP singles. Man on 1st
+JR flies out. Outs: 2
+JT flies out. Outs: 3
+ 
+Top of inning 5
+DJ pops out. Outs: 1
+EJ fouls out. Outs: 2
+OJ fouls out. Outs: 3
+ 
+Bottom of inning 5
+JS grounds out. Outs: 1
+JA fouls out. Outs: 2
+JB walks. Man on 1st
+JC homers. 2 runs score
+Score: Senators 2-1 Flames
+JD grounds out. Outs: 3
+ 
+Top of inning 6
+PJ strikes out. Outs: 1
+TJ flies out. Outs: 2
+RJ singles. Man on 1st
+AJ walks. Man on 2nd. Man on 1st
+BJ pops out. Outs: 3
+ 
+Bottom of inning 6
+JJ flies out. Outs: 1
+JP flies out. Outs: 2
+JR strikes out. Outs: 3
+ 
+Top of inning 7
+CJ strikes out. Outs: 1
+DJ fouls out. Outs: 2
+EJ doubles. Man on 2nd
+OJ singles. Man on 3rd. Man on 1st
+PJ doubles. 1 runs score. 
+Score: Flames 2-2 Senators
+Man on 3rd. Man on 2nd
+TJ grounds out. Outs: 3
+ 
+Bottom of inning 7
+JT flies out. Outs: 1
+JS pops out. Outs: 2
+JA grounds out. Outs: 3
+ 
+Top of inning 8
+RJ pops out. Outs: 1
+AJ flies out. Outs: 2
+BJ walks. Man on 1st
+CJ singles. Man on 2nd. Man on 1st
+DJ pops out. Outs: 3
+ 
+Bottom of inning 8
+JB singles. Man on 1st
+JC doubles. Man on 3rd. Man on 2nd
+JD singles. A run scores. 
+Score: Senators 3-2 Flames
+Man on 3rd. Man on 1st
+JJ singles. A run scores. 
+Score: Senators 4-2 Flames
+Man on 2nd. Man on 1st
+JP grounds out. Outs: 1
+JR walks. Man on 2nd. Man on 3rd. Man on 1st
+JT grounds out. Outs: 2
+JS singles. A run scores. 
+Score: Senators 5-2 Flames
+Man on 2nd. Man on 3rd. Man on 1st
+JA singles. A run scores. 
+Score: Senators 6-2 Flames
+Man on 2nd. Man on 3rd. Man on 1st
+JB grounds out. Outs: 3
+ 
+Top of inning 9
+EJ walks. Man on 1st
+OJ singles. Man on 2nd. Man on 1st
+PJ fouls out. Outs: 1
+TJ flies out. Outs: 2
+RJ pops out. Outs: 3
+The Senators win by a score of 6-2 over the Flames
+ 
+Inning    |	1	|	2	|	3	|	4	|	5	|	6	|	7	|	8	|	9	|Runs	|Hits 
+Flames    |	0	|	0	|	0	|	1	|	0	|	0	|	1	|	0	|	0	|2	|11 
+Senators  |	0	|	0	|	0	|	0	|	2	|	0	|	0	|	4	|	0	|6	|10 
+Stats
+Flames
+Name      |AB	|H	|HR	|RBI	|BB 
+AJ        |4	|0	|0	|0	|1 
+BJ        |4	|2	|0	|1	|1 
+CJ        |3	|1	|0	|0	|2 
+DJ        |5	|0	|0	|0	|0 
+EJ        |4	|1	|0	|0	|1 
+OJ        |4	|3	|0	|0	|1 
+PJ        |5	|2	|0	|1	|0 
+TJ        |4	|0	|0	|0	|1 
+RJ        |5	|2	|0	|0	|0 
+Total     |38	|11	|0	|2	|7 
+ 
+Senators
+Name      |AB	|H	|HR	|RBI	|BB 
+JA        |5	|2	|0	|1	|0 
+JB        |4	|1	|0	|0	|1 
+JC        |4	|2	|1	|2	|0 
+JD        |4	|1	|0	|1	|0 
+JJ        |3	|1	|0	|1	|1 
+JP        |4	|2	|0	|0	|0 
+JR        |3	|0	|0	|0	|1 
+JT        |3	|0	|0	|0	|1 
+JS        |4	|1	|0	|1	|0 
+Total     |34	|10	|1	|6	|4

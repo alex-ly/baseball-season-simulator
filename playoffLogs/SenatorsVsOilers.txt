@@ -1,0 +1,150 @@
+Away: Senators vs Oilers :Home
+ 
+Top of inning 1
+JA pops out. Outs: 1
+JB singles. Man on 1st
+JC walks. Man on 2nd. Man on 1st
+JD grounds out. Outs: 2
+JJ strikes out. Outs: 3
+ 
+Bottom of inning 1
+Joe singles. Man on 1st
+Ken pops out. Outs: 1
+Lou grounds out. Outs: 2
+Max grounds out. Outs: 3
+ 
+Top of inning 2
+JP flies out. Outs: 1
+JR grounds out. Outs: 2
+JT singles. Man on 1st
+JS pops out. Outs: 3
+ 
+Bottom of inning 2
+Ned singles. Man on 1st
+Owen strikes out. Outs: 1
+Pat walks. Man on 2nd. Man on 1st
+Rex grounds out. Outs: 2
+Stu flies out. Outs: 3
+ 
+Top of inning 3
+JA singles. Man on 1st
+JB doubles. Man on 3rd. Man on 2nd
+JC strikes out. Outs: 1
+JD pops out. Outs: 2
+JJ singles. A run scores. 
+Score: Senators 1-0 Oilers
+Man on 3rd. Man on 1st
+JP grounds out. Outs: 3
+ 
+Bottom of inning 3
+Joe fouls out. Outs: 1
+Ken pops out. Outs: 2
+Lou flies out. Outs: 3
+ 
+Top of inning 4
+JR flies out. Outs: 1
+JT grounds out. Outs: 2
+JS flies out. Outs: 3
+ 
+Bottom of inning 4
+Max singles. Man on 1st
+Ned flies out. Outs: 1
+Owen fouls out. Outs: 2
+Pat singles. Man on 2nd. Man on 1st
+Rex walks. Man on 2nd. Man on 3rd. Man on 1st
+Stu grounds out. Outs: 3
+ 
+Top of inning 5
+JA singles. Man on 1st
+JB singles. Man on 2nd. Man on 1st
+JC grounds out. Outs: 1
+JD flies out. Outs: 2
+JJ strikes out. Outs: 3
+ 
+Bottom of inning 5
+Joe singles. Man on 1st
+Ken strikes out. Outs: 1
+Lou grounds out. Outs: 2
+Max singles. Man on 2nd. Man on 1st
+Ned singles. Man on 2nd. Man on 3rd. Man on 1st
+Owen doubles. 2 runs score. 
+Score: Oilers 2-1 Senators
+Man on 3rd. Man on 2nd
+Pat fouls out. Outs: 3
+ 
+Top of inning 6
+JP singles. Man on 1st
+JR grounds out. Outs: 1
+JT singles. Man on 2nd. Man on 1st
+JS flies out. Outs: 2
+JA strikes out. Outs: 3
+ 
+Bottom of inning 6
+Rex singles. Man on 1st
+Stu singles. Man on 2nd. Man on 1st
+Joe strikes out. Outs: 1
+Ken grounds out. Outs: 2
+Lou strikes out. Outs: 3
+ 
+Top of inning 7
+JB walks. Man on 1st
+JC strikes out. Outs: 1
+JD strikes out. Outs: 2
+JJ strikes out. Outs: 3
+ 
+Bottom of inning 7
+Max pops out. Outs: 1
+Ned flies out. Outs: 2
+Owen grounds out. Outs: 3
+ 
+Top of inning 8
+JP strikes out. Outs: 1
+JR grounds out. Outs: 2
+JT flies out. Outs: 3
+ 
+Bottom of inning 8
+Pat walks. Man on 1st
+Rex doubles. Man on 3rd. Man on 2nd
+Stu strikes out. Outs: 1
+Joe singles. A run scores. 
+Score: Oilers 3-1 Senators
+Man on 3rd. Man on 1st
+Ken flies out. Outs: 2
+Lou grounds out. Outs: 3
+ 
+Top of inning 9
+JS walks. Man on 1st
+JA fouls out. Outs: 1
+JB flies out. Outs: 2
+JC fouls out. Outs: 3
+The Oilers win by a score of 3-1 over the Senators
+ 
+Inning    |	1	|	2	|	3	|	4	|	5	|	6	|	7	|	8	|	9	|Runs	|Hits 
+Senators  |	0	|	0	|	1	|	0	|	0	|	0	|	0	|	0	|	0	|1	|9 
+Oilers    |	0	|	0	|	0	|	0	|	2	|	0	|	0	|	1	|	0	|3	|12 
+Stats
+Senators
+Name      |AB	|H	|HR	|RBI	|BB 
+JA        |5	|2	|0	|0	|0 
+JB        |4	|3	|0	|0	|1 
+JC        |4	|0	|0	|0	|1 
+JD        |4	|0	|0	|0	|0 
+JJ        |4	|1	|0	|1	|0 
+JP        |4	|1	|0	|0	|0 
+JR        |4	|0	|0	|0	|0 
+JT        |4	|2	|0	|0	|0 
+JS        |3	|0	|0	|0	|1 
+Total     |36	|9	|0	|1	|3 
+ 
+Oilers
+Name      |AB	|H	|HR	|RBI	|BB 
+Joe       |5	|3	|0	|1	|0 
+Ken       |5	|0	|0	|0	|0 
+Lou       |5	|0	|0	|0	|0 
+Max       |4	|2	|0	|0	|0 
+Ned       |4	|2	|0	|0	|0 
+Owen      |4	|1	|0	|2	|0 
+Pat       |2	|1	|0	|0	|2 
+Rex       |3	|2	|0	|0	|1 
+Stu       |4	|1	|0	|0	|0 
+Total     |36	|12	|0	|3	|3

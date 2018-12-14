@@ -1,0 +1,168 @@
+Away: Flames vs Leafs :Home
+ 
+Top of inning 1
+AJ fouls out. Outs: 1
+BJ fouls out. Outs: 2
+CJ grounds out. Outs: 3
+ 
+Bottom of inning 1
+Al walks. Man on 1st
+Bo pops out. Outs: 1
+Cam singles. Man on 2nd. Man on 1st
+Dan pops out. Outs: 2
+Ed strikes out. Outs: 3
+ 
+Top of inning 2
+DJ singles. Man on 1st
+EJ grounds out. Outs: 1
+OJ fouls out. Outs: 2
+PJ pops out. Outs: 3
+ 
+Bottom of inning 2
+Fred fouls out. Outs: 1
+Guy strikes out. Outs: 2
+Hal flies out. Outs: 3
+ 
+Top of inning 3
+TJ strikes out. Outs: 1
+RJ singles. Man on 1st
+AJ strikes out. Outs: 2
+BJ walks. Man on 2nd. Man on 1st
+CJ strikes out. Outs: 3
+ 
+Bottom of inning 3
+Ian walks. Man on 1st
+Al strikes out. Outs: 1
+Bo fouls out. Outs: 2
+Cam singles. Man on 2nd. Man on 1st
+Dan flies out. Outs: 3
+ 
+Top of inning 4
+DJ flies out. Outs: 1
+EJ walks. Man on 1st
+OJ doubles. Man on 3rd. Man on 2nd
+PJ singles. A run scores. 
+Score: Flames 1-0 Leafs
+Man on 3rd. Man on 1st
+TJ flies out. Outs: 2
+RJ pops out. Outs: 3
+ 
+Bottom of inning 4
+Ed singles. Man on 1st
+Fred pops out. Outs: 1
+Guy walks. Man on 2nd. Man on 1st
+Hal walks. Man on 2nd. Man on 3rd. Man on 1st
+Ian flies out. Outs: 2
+Al triples. 3 runs score
+Score: Leafs 3-1 Flames
+Man on 3rd
+Bo singles. A run scores. 
+Score: Leafs 4-1 Flames
+Man on 1st
+Cam pops out. Outs: 3
+ 
+Top of inning 5
+AJ flies out. Outs: 1
+BJ grounds out. Outs: 2
+CJ singles. Man on 1st
+DJ pops out. Outs: 3
+ 
+Bottom of inning 5
+Dan strikes out. Outs: 1
+Ed grounds out. Outs: 2
+Fred doubles. Man on 2nd
+Guy strikes out. Outs: 3
+ 
+Top of inning 6
+EJ singles. Man on 1st
+OJ walks. Man on 2nd. Man on 1st
+PJ walks. Man on 2nd. Man on 3rd. Man on 1st
+TJ fouls out. Outs: 1
+RJ strikes out. Outs: 2
+AJ fouls out. Outs: 3
+ 
+Bottom of inning 6
+Hal doubles. Man on 2nd
+Ian singles. Man on 3rd. Man on 1st
+Al pops out. Outs: 1
+Bo pops out. Outs: 2
+Cam flies out. Outs: 3
+ 
+Top of inning 7
+BJ walks. Man on 1st
+CJ grounds out. Outs: 1
+DJ flies out. Outs: 2
+EJ walks. Man on 2nd. Man on 1st
+OJ walks. Man on 2nd. Man on 3rd. Man on 1st
+PJ strikes out. Outs: 3
+ 
+Bottom of inning 7
+Dan flies out. Outs: 1
+Ed singles. Man on 1st
+Fred singles. Man on 2nd. Man on 1st
+Guy homers. 3 runs score
+Score: Leafs 7-1 Flames
+Hal strikes out. Outs: 2
+Ian pops out. Outs: 3
+ 
+Top of inning 8
+TJ singles. Man on 1st
+RJ doubles. Man on 3rd. Man on 2nd
+AJ homers. 3 runs score
+Score: Flames 4-7 Leafs
+BJ strikes out. Outs: 1
+CJ singles. Man on 1st
+DJ grounds out. Outs: 2
+EJ triples. 1 runs score
+Score: Flames 5-7 Leafs
+Man on 3rd
+OJ flies out. Outs: 3
+ 
+Bottom of inning 8
+Al singles. Man on 1st
+Bo walks. Man on 2nd. Man on 1st
+Cam pops out. Outs: 1
+Dan triples. 2 runs score
+Score: Leafs 9-5 Flames
+Man on 3rd
+Ed strikes out. Outs: 2
+Fred fouls out. Outs: 3
+ 
+Top of inning 9
+PJ pops out. Outs: 1
+TJ singles. Man on 1st
+RJ fouls out. Outs: 2
+AJ singles. Man on 2nd. Man on 1st
+BJ singles. Man on 2nd. Man on 3rd. Man on 1st
+CJ strikes out. Outs: 3
+The Leafs win by a score of 9-5 over the Flames
+ 
+Inning    |	1	|	2	|	3	|	4	|	5	|	6	|	7	|	8	|	9	|Runs	|Hits 
+Flames    |	0	|	0	|	0	|	1	|	0	|	0	|	0	|	4	|	0	|5	|14 
+Leafs     |	0	|	0	|	0	|	4	|	0	|	0	|	3	|	2	|	0	|9	|13 
+Stats
+Flames
+Name      |AB	|H	|HR	|RBI	|BB 
+AJ        |6	|2	|1	|3	|0 
+BJ        |4	|1	|0	|0	|2 
+CJ        |6	|2	|0	|0	|0 
+DJ        |5	|1	|0	|0	|0 
+EJ        |3	|2	|0	|1	|2 
+OJ        |3	|1	|0	|0	|2 
+PJ        |4	|1	|0	|1	|1 
+TJ        |5	|2	|0	|0	|0 
+RJ        |5	|2	|0	|0	|0 
+Total     |41	|14	|1	|5	|7 
+ 
+Leafs
+Name      |AB	|H	|HR	|RBI	|BB 
+Al        |4	|2	|0	|3	|1 
+Bo        |4	|1	|0	|1	|1 
+Cam       |5	|2	|0	|0	|0 
+Dan       |5	|1	|0	|2	|0 
+Ed        |5	|2	|0	|0	|0 
+Fred      |5	|2	|0	|0	|0 
+Guy       |3	|1	|1	|3	|1 
+Hal       |3	|1	|0	|0	|1 
+Ian       |3	|1	|0	|0	|1 
+Total     |37	|13	|1	|9	|5

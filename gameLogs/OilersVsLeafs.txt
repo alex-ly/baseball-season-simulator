@@ -1,0 +1,158 @@
+Away: Oilers vs Leafs :Home
+ 
+Top of inning 1
+Joe grounds out. Outs: 1
+Ken fouls out. Outs: 2
+Lou grounds out. Outs: 3
+ 
+Bottom of inning 1
+Al fouls out. Outs: 1
+Bo fouls out. Outs: 2
+Cam singles. Man on 1st
+Dan strikes out. Outs: 3
+ 
+Top of inning 2
+Max fouls out. Outs: 1
+Ned strikes out. Outs: 2
+Owen grounds out. Outs: 3
+ 
+Bottom of inning 2
+Ed fouls out. Outs: 1
+Fred strikes out. Outs: 2
+Guy flies out. Outs: 3
+ 
+Top of inning 3
+Pat grounds out. Outs: 1
+Rex triples. Man on 3rd
+Stu singles. A run scores. 
+Score: Oilers 1-0 Leafs
+Man on 1st
+Joe walks. Man on 2nd. Man on 1st
+Ken walks. Man on 2nd. Man on 3rd. Man on 1st
+Lou walks. A run scores. 
+Score: Oilers 2-0 Leafs
+Man on 2nd. Man on 3rd. Man on 1st
+Max strikes out. Outs: 2
+Ned singles. A run scores. 
+Score: Oilers 3-0 Leafs
+Man on 2nd. Man on 3rd. Man on 1st
+Owen walks. A run scores. 
+Score: Oilers 4-0 Leafs
+Man on 2nd. Man on 3rd. Man on 1st
+Pat strikes out. Outs: 3
+ 
+Bottom of inning 3
+Hal strikes out. Outs: 1
+Ian singles. Man on 1st
+Al grounds out. Outs: 2
+Bo strikes out. Outs: 3
+ 
+Top of inning 4
+Rex fouls out. Outs: 1
+Stu strikes out. Outs: 2
+Joe fouls out. Outs: 3
+ 
+Bottom of inning 4
+Cam flies out. Outs: 1
+Dan singles. Man on 1st
+Ed walks. Man on 2nd. Man on 1st
+Fred strikes out. Outs: 2
+Guy walks. Man on 2nd. Man on 3rd. Man on 1st
+Hal fouls out. Outs: 3
+ 
+Top of inning 5
+Ken singles. Man on 1st
+Lou grounds out. Outs: 1
+Max strikes out. Outs: 2
+Ned grounds out. Outs: 3
+ 
+Bottom of inning 5
+Ian pops out. Outs: 1
+Al singles. Man on 1st
+Bo pops out. Outs: 2
+Cam flies out. Outs: 3
+ 
+Top of inning 6
+Owen pops out. Outs: 1
+Pat singles. Man on 1st
+Rex walks. Man on 2nd. Man on 1st
+Stu fouls out. Outs: 2
+Joe grounds out. Outs: 3
+ 
+Bottom of inning 6
+Dan fouls out. Outs: 1
+Ed strikes out. Outs: 2
+Fred strikes out. Outs: 3
+ 
+Top of inning 7
+Ken flies out. Outs: 1
+Lou flies out. Outs: 2
+Max fouls out. Outs: 3
+ 
+Bottom of inning 7
+Guy grounds out. Outs: 1
+Hal fouls out. Outs: 2
+Ian singles. Man on 1st
+Al flies out. Outs: 3
+ 
+Top of inning 8
+Ned walks. Man on 1st
+Owen singles. Man on 2nd. Man on 1st
+Pat pops out. Outs: 1
+Rex grounds out. Outs: 2
+Stu singles. Man on 2nd. Man on 3rd. Man on 1st
+Joe pops out. Outs: 3
+ 
+Bottom of inning 8
+Bo grounds out. Outs: 1
+Cam pops out. Outs: 2
+Dan walks. Man on 1st
+Ed singles. Man on 2nd. Man on 1st
+Fred singles. Man on 2nd. Man on 3rd. Man on 1st
+Guy singles. A run scores. 
+Score: Leafs 1-4 Oilers
+Man on 2nd. Man on 3rd. Man on 1st
+Hal strikes out. Outs: 3
+ 
+Top of inning 9
+Ken singles. Man on 1st
+Lou singles. Man on 2nd. Man on 1st
+Max grounds out. Outs: 1
+Ned flies out. Outs: 2
+Owen fouls out. Outs: 3
+ 
+Bottom of inning 9
+Ian strikes out. Outs: 1
+Al strikes out. Outs: 2
+Bo grounds out. Outs: 3
+The Oilers win by a score of 4-1 over the Leafs
+ 
+Inning    |	1	|	2	|	3	|	4	|	5	|	6	|	7	|	8	|	9	|Runs	|Hits 
+Oilers    |	0	|	0	|	4	|	0	|	0	|	0	|	0	|	0	|	0	|4	|9 
+Leafs     |	0	|	0	|	0	|	0	|	0	|	0	|	0	|	1	|	0	|1	|8 
+Stats
+Oilers
+Name      |AB	|H	|HR	|RBI	|BB 
+Joe       |4	|0	|0	|0	|1 
+Ken       |4	|2	|0	|0	|1 
+Lou       |4	|1	|0	|1	|1 
+Max       |5	|0	|0	|0	|0 
+Ned       |4	|1	|0	|1	|1 
+Owen      |4	|1	|0	|1	|1 
+Pat       |4	|1	|0	|0	|0 
+Rex       |3	|1	|0	|0	|1 
+Stu       |4	|2	|0	|1	|0 
+Total     |36	|9	|0	|4	|6 
+ 
+Leafs
+Name      |AB	|H	|HR	|RBI	|BB 
+Al        |5	|1	|0	|0	|0 
+Bo        |5	|0	|0	|0	|0 
+Cam       |4	|1	|0	|0	|0 
+Dan       |3	|1	|0	|0	|1 
+Ed        |3	|1	|0	|0	|1 
+Fred      |4	|1	|0	|0	|0 
+Guy       |3	|1	|0	|1	|1 
+Hal       |4	|0	|0	|0	|0 
+Ian       |4	|2	|0	|0	|0 
+Total     |35	|8	|0	|1	|3
