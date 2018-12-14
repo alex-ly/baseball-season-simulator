@@ -41,9 +41,9 @@ All batter and team stats are stored in the `stats` folder.
 
 The batter stats recorded are:
 ```
-avg
-hr
-rbi
+avg - number of hits divided by number of at-bats
+hr - number of home runs hit
+rbi - number of runs driven in by the batter
 ```
 
 The team stats recorded are:
