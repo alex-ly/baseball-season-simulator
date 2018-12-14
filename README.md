@@ -54,7 +54,7 @@ Ties
 Run Differential
 ```
 
-# Team files are stored in the "teams" folder
+# Team files are stored in the `teams` folder
 To add a team, make a `.txt` file with the filename of the next number after the highest team number in the folder.
 
 # Format of the team files
